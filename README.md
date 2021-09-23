@@ -1,4 +1,4 @@
-# project-cmpt-276
+# Dine Alert Web Application
 
 The DineAlert application is designed to help restaurant owners track their visitors and respond to detection of in-store COVID-19 cases. This would help contain the spread of the virus. Customers can digitally sign-up on DineAlert, and an email alert will be sent to potentially infected visitors. Potential COVID-19 carriers refer to people who dine in at the same hour as a COVID-positive customer. Currently, restaurant visitors have to manually sign up during their visit, and restaurant owners can contact each potential COVID-19 carrier via text or calls.
 
